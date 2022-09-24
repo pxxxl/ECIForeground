@@ -1,0 +1,13 @@
+board elem:
+{
+  "name": ""
+  "type": ""
+  "orientation": ""
+  "x": ""
+  "y": ""
+  "properties": []
+  "links": []
+}
+
+board的link是单边链接 格式[["x", "y"], [], [], elem]
+elem不允许有link

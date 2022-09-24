@@ -1,0 +1,60 @@
+QPushButton#edit_tab:!hover{
+background-color: transparent;
+border: 0px;
+margin:5
+
+}
+
+QPushButton#folder_tab:!hover{
+background-color: transparent;
+border: 0px;
+margin:5
+
+}
+ QPushButton#solve_tab:!hover{
+background-color: transparent;
+border: 0px;
+margin:5
+
+}
+QPushButton#notes_tab:!hover{
+background-color: transparent;
+border: 0px;
+margin:5
+
+}
+QPushButton#report_tab:!hover {
+background-color: transparent;
+border: 0px;
+margin:5
+
+}
+
+/*
+QPushButton#edit_tab:hover{
+background-color: rgba(173, 173, 173, 50);
+border: 0px;
+margin:5
+/*icon:url(:/tab_button/edit)*/
+}
+QPushButton#folder_tab:hover{
+background-color: rgba(173, 173, 173, 50);
+border: 0px;
+margin:5
+}
+ QPushButton#solve_tab:hover{
+background-color: rgba(173, 173, 173, 50);
+border: 0px;
+margin:5
+}
+QPushButton#notes_tab:hover{
+background-color: rgba(173, 173, 173, 50);
+border: 0px;
+margin:5
+}
+QPushButton#report_tab:hover {
+background-color: rgba(173, 173, 173, 50);
+border: 0px;
+margin:5
+}
+*/

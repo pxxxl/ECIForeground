@@ -1,0 +1,46 @@
+<RCC>
+  <qresource prefix="tab_button">
+    <file alias="note">icons/ceshijilu_u.png</file>
+    <file alias="report">icons/ceshixiangqing_u.png</file>
+    <file alias="solve">icons/guizeyinqing_u.png</file>
+    <file alias="folder">icons/xiangmuguanli_u.png</file>
+    <file alias="edit">icons/zidingy_u.png</file>
+    <file alias="note_c">icons/ceshijilu.png</file>
+    <file alias="report_c">icons/ceshixiangqing.png</file>
+    <file alias="solve_c">icons/guizeyinqing.png</file>
+    <file alias="folder_c">icons/xiangmuguanli.png</file>
+    <file alias="edit_c">icons/zidingy.png</file>
+  </qresource>
+  <qresource prefix="window_icon">
+    <file>icons/Final.ico</file>
+  </qresource>
+  <qresource prefix="page_button">
+    <file>icons/debug.png</file>
+  </qresource>
+  <qresource prefix="right_tab">
+    <file alias="close">icons/cancel-1-copy.png</file>
+  </qresource>
+  <qresource prefix="edit_button">
+    <file alias="unlink">icons/disconnectdevice.png</file>
+    <file alias="unlink_c">icons/disconnectdevice_chosen.png</file>
+    <file alias="rotate_c">icons/refresh_chosen.png</file>
+    <file alias="add">icons/increase.png</file>
+    <file alias="add_c">icons/increase_chosen.png</file>
+    <file alias="choose">icons/course.png</file>
+    <file alias="rotate">icons/refresh.png</file>
+    <file alias="choose_c">icons/course_chosen.png</file>
+    <file alias="link">icons/connectdevice.png</file>
+    <file alias="link_c">icons/connectdevice_chosen.png</file>
+    <file alias="delete">icons/delete.png</file>
+    <file alias="delete_c">icons/delete_chosen.png</file>
+  </qresource>
+  <qresource prefix="elems">
+    <file>icons/Capacity.png</file>
+    <file>icons/CCurrentSource.png</file>
+    <file>icons/CVoltageSource.png</file>
+    <file>icons/CurrentSource.png</file>
+    <file>icons/Resistance.png</file>
+    <file>icons/Node.png</file>
+    <file>icons/VoltageSource.png</file>
+  </qresource>
+</RCC>
